@@ -2,7 +2,7 @@
 
 Welcome to the **Discord Timestamp Generator Tool** hosted on [PfpFinder.com](https://pfpfinder.com/tools/discord-timestamp-generator). This tool is designed to help you easily create and convert timestamps for Discord, ensuring your messages display accurate and localized times across different user time zones. It offers an intuitive interface that makes generating both absolute and relative timestamps quick and simple.
 
-With support for Discord's timestamp formats and conversion from Unix timestamps, this tool is perfect for anyone looking to create dynamic, time-sensitive messages.
+With support for [Discord's timestamp formats](https://itsvijaysingh.github.io/Discord-Timestamp-Generator/) and conversion from Unix timestamps, this tool is perfect for anyone looking to create dynamic, time-sensitive messages.
 
 ---
 
